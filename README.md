@@ -6,7 +6,7 @@
 Library of common classes for building serviceX transformers. 
 
 ## Minimum Requirements
-Works with Python version 2.7 and above
+Works with Python version 2.7 and above.
 
 ## Download from PyPi
 To use this library:
